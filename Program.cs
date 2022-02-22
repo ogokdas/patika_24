@@ -13,7 +13,8 @@ namespace patika_24
             Calisan.calisanekle("mehmet");
             Calisan.calisanekle("ömer");
             Calisan.calisanekle("miyem");
-            Calisan.calisanekle("memo");
+            Calisan.calisanekle("memocan");
+
             Console.WriteLine(Calisan.calisansayisi);
             Console.ReadLine();
         }
